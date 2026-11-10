@@ -76,7 +76,7 @@ Google, financeiro da agência e gestão de projetos.
 - **22 telas** em React conectadas à API real, testadas no celular e no computador, e CI no GitHub Actions
 - Integrações com Meta Ads, Google Ads, Canva, WhatsApp Business e Asaas implementadas (validação com contas reais em andamento)
 
-### 🌐 Portfólio de Redes de Computadores · *em andamento*
+### 🌐 [Portfólio de Redes de Computadores](https://github.com/leonardofacin707-lab/portfolio-redes) · *em andamento*
 > `Cisco Packet Tracer` `Wireshark` `Python` `Docker` `PowerShell`
 
 Cinco laboratórios práticos, cada um com problema real, topologia, configurações e testes que provam que funciona:
@@ -89,11 +89,12 @@ Cinco laboratórios práticos, cada um com problema real, topologia, configuraç
 | 04 | WAN matriz e filiais com OSPF | 🟡 Intermediário | OSPF, redundância de links, autenticação OSPF |
 | 05 | Bloqueador de anúncios para a rede (Pi-hole) | 🔴 Avançado | DNS, servidor Linux, contêineres, automação de testes |
 
-### 🎓 Tutor IA · extensão de estudos para o navegador
+### 🎓 [Tutor IA](https://github.com/leonardofacin707-lab/extensao-tutor-ia) · extensão de estudos para o navegador
 > `JavaScript` `Chrome Extension (MV3)` `Gemini API` `Claude API` `Node.js`
 
 Extensão que explica questões de estudo passo a passo, com modo dica e correção do raciocínio do aluno. Foi feita
 para **ensinar, não para colar**: um teste automático falha se o código tentar clicar, marcar ou enviar algo na página.
+São **40 testes automatizados**, além de testes de ponta a ponta no navegador.
 
 ### 🗓️ Painel pessoal · Flask
 > `Python` `Flask` `SQLite`

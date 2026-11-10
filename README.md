@@ -23,10 +23,9 @@
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e procuro minha primeira vaga de **estágio ou júnior** em
 **Redes / NOC, Cibersegurança (SOC) ou IA aplicada**.
 
-Venho do atendimento e de vendas: no **Sam's Club (Grupo Carrefour)** fui promovido de analista júnior para agente de
-vendas e relacionamento, atendi clientes em inglês, trabalhei com **Salesforce**, acompanhei **NPS e CSAT** e bati a
-meta de vendas. Também trabalhei com **monitoramento de CFTV**. Essa bagagem me ajuda a explicar tecnologia com
-clareza e a manter a calma diante de incidentes.
+Depois de **5 anos em vendas B2C**, atendendo clientes em português e inglês, decidi migrar para a tecnologia.
+Dessa fase trago comunicação clara, foco no cliente e calma sob pressão. Hoje estudo e construo projetos práticos
+para aplicar isso em redes, segurança e desenvolvimento.
 
 - 🔭 **Agora:** construindo a **METRIKA**, uma plataforma SaaS multiempresa para agências de marketing
 - 🌐 **Estudando:** redes Cisco (VLANs, OSPF, ACLs), análise de tráfego e fundamentos de SOC
@@ -122,9 +121,8 @@ objetivo: estágio ou vaga júnior
 areas_de_interesse: [Redes / NOC, Cibersegurança / SOC, Inteligência Artificial, Desenvolvimento Back-end, Suporte Técnico]
 formacao: Análise e Desenvolvimento de Sistemas (cursando, previsão de conclusão em 01/2029)
 idiomas: [Português (nativo), Inglês (intermediário)]
-experiencia:
-  - Sam's Club (Grupo Carrefour): analista júnior, promovido a agente de vendas e relacionamento; atendimento em inglês, Salesforce, NPS e CSAT, meta de vendas batida
-  - Monitoramento de CFTV
+experiencia: 5 anos em vendas B2C, com atendimento em português e inglês
+transicao_de_carreira: de vendas para tecnologia (redes, cibersegurança, IA e desenvolvimento)
 linguagens: [Python, TypeScript, JavaScript, SQL, C, C++, Java]
 back_end: [FastAPI, Flask, APIs REST, autenticação 2FA, rate limiting]
 front_end: [React, Vite, HTML, CSS]
